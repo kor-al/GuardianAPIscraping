@@ -1,0 +1,7 @@
+*.csv
+*.pdf
+*.ai
+*.png
+*.jpg
+.DS_Store
+*.json
